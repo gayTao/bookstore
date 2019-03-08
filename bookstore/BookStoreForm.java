@@ -2,9 +2,7 @@ package bookstore;
 
 import javax.swing.*;
 
-/**
- * Created by WJF on 2016/12/2.
- */
+ 
 public class BookStoreForm {
 
     public static void main(String[] args) {
