@@ -1,7 +1,5 @@
 package bookstore;
-/**
-        * Created by WJF on 2016/12/1.
-        */
+ 
 public class Books {
 
     int Books_id;
