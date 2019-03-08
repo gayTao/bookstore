@@ -3,9 +3,7 @@ package bookstore;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by WJF on 2016/12/1.
- */
+ 
 public class Manager_agent extends Person{
     List<Books> BooksList  = new ArrayList<Books>();
     boolean Account_category;//是用户\管理员
