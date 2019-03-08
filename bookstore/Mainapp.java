@@ -3,10 +3,7 @@ package bookstore;
 
 import java.util.Scanner;
 
-/**
- * Created by WJF on 2016/12/1.
- */
-public class Mainapp {
+ lic class Mainapp {
     public static void main(String a[]) {
         int input;
         String loginName;
