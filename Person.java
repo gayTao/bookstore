@@ -1,8 +1,6 @@
 package bookstore;
 
-/**
- * Created by WJF on 2016/12/1.
- */
+ 
 public class Person {
     String Account_name;
     String Account_passwd;
